@@ -1,6 +1,6 @@
 # Ecoleta :recycle: :purple_heart: :iphone: :computer:
 
-Ecoleta is a small project focused on bringing a experience of easy registering and searching for garbage collection locations registered via a mobile app map.
+Ecoleta is a small project focused on bringing a experience of easy registering and searching for garbage collection locations registered via website or mobile app.
 
 This is a one week fullstack development project, composed of a web page, mobile app and web server with the use of TypeScript to create a Node.js in the backend, web page with React.js and React Native for the mobile app.
 
